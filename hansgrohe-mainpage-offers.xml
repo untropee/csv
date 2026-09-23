@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yml_catalog date="2026-09-23">
+  <shop>
+    <name>hansgrohe</name>
+    <company>Официальный интернет-магазин hansgrohe</company>
+    <url>https://hansgrohe-russia.ru</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Официальный интернет-магазин</category>
+    </categories>
+    <offers>
+      <offer id="99999990358" type="vendor.model" available="true">
+      <price>999</price>
+      <currencyId>RUR</currencyId>
+      <url>https://hansgrohe-russia.ru</url>
+      <categoryId>1</categoryId>
+      <vendor>hansgrohe</vendor>
+      <typePrefix>Официальный интернет-магазин</typePrefix>
+      <model>hansgrohe</model>
+      <manufacturer_warranty>true</manufacturer_warranty>
+      <name>Официальный интернет-магазин сантехники hansgrohe</name>
+      <description>Лучшие цены осени и никаких промокодов! Скидки до -84% на hansgrohe!</description>
+    </offer>
+    <offer id="99999990359" type="vendor.model" available="true">
+      <price>999</price>
+      <currencyId>RUR</currencyId>
+      <url>https://hansgrohe-russia.ru</url>
+      <categoryId>1</categoryId>
+      <vendor>hansgrohe</vendor>
+      <typePrefix>Официальный интернет-магазин</typePrefix>
+      <model>Хансгрое</model>
+      <manufacturer_warranty>true</manufacturer_warranty>
+      <name>Официальный интернет-магазин сантехники hansgrohe</name>
+      <description>Лучшие цены осени и никаких промокодов! Скидки до -84% на hansgrohe!</description>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
