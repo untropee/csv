@@ -21,7 +21,7 @@
       <model>hansgrohe</model>
       <manufacturer_warranty>true</manufacturer_warranty>
       <name>Официальный интернет-магазин сантехники hansgrohe</name>
-      <description>Лучшие цены осени и никаких промокодов! Скидки до -84% на hansgrohe!</description>
+      <description>Лучшая цена: максимальные скидки до -84% на hansgrohe!</description>
     </offer>
     <offer id="99999990359" type="vendor.model" available="true">
       <price>999</price>
@@ -33,7 +33,7 @@
       <model>Хансгрое</model>
       <manufacturer_warranty>true</manufacturer_warranty>
       <name>Официальный интернет-магазин сантехники hansgrohe</name>
-      <description>Лучшие цены осени и никаких промокодов! Скидки до -84% на hansgrohe!</description>
+      <description>Лучшая цена: максимальные скидки до -84% на hansgrohe!</description>
     </offer>
     </offers>
   </shop>
